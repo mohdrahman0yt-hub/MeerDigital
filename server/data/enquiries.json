@@ -1,0 +1,14 @@
+[
+  {
+    "referenceId": "MD-458668",
+    "fullName": "Test Founder",
+    "phone": "9876543210",
+    "email": "founder@example.com",
+    "businessName": "Founder Enterprises",
+    "businessType": "Startup",
+    "service": "GST & Business Compliance",
+    "message": "Testing enquiry submission from test harness.",
+    "source": "/test",
+    "createdAt": "2026-11-09T19:44:18.668Z"
+  }
+]
