@@ -238,7 +238,7 @@ export default function About() {
 
                 <div className="founder-image-frame">
                   <img
-                    src="src/images/founder_rahman.png"
+                    src="/images/founder_rahman.png"
                     alt="Mohd Rahman, Founder of MeerDigital"
                     className="founder-image"
                     loading="lazy"
