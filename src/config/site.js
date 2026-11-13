@@ -5,7 +5,7 @@ export const siteConfig = {
   coreMessage:
     'From Business Registration to E-commerce Growth — Everything Under One Roof.',
   description:
-    'MeerDigital is a one-stop business solutions partner helping entrepreneurs, manufacturers, wholesalers, startups, and online sellers establish, manage, and grow their businesses across India.',
+    'MeerDigital Dev is a one-stop business solutions partner helping entrepreneurs, manufacturers, wholesalers, startups, and online sellers establish, manage, and grow their businesses across India.',
   url: import.meta.env.VITE_SITE_URL || 'https://meerdigital.in',
   locale: 'en_IN',
   region: 'India',
