@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: 'MeerDigital',
-  brandName: 'MeerDigital',
+  name: 'MeerDigital Dev',
+  brandName: 'MeerDigital Dev',
   tagline: 'Everything Your Business Needs.',
   coreMessage:
     'From Business Registration to E-commerce Growth — Everything Under One Roof.',
