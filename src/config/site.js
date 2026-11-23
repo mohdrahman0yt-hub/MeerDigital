@@ -6,12 +6,12 @@ export const siteConfig = {
     'From Business Registration to E-commerce Growth — Everything Under One Roof.',
   description:
     'MeerDigital Dev is a one-stop business solutions partner helping entrepreneurs, manufacturers, wholesalers, startups, and online sellers establish, manage, and grow their businesses across India.',
-  url: import.meta.env.VITE_SITE_URL || 'https://meerdigital.com',
+  url: import.meta.env.VITE_SITE_URL || 'https://meerdigital1.com',
   locale: 'en_IN',
   region: 'India',
   operatingMode: 'Pan-India Remote & On-Site Consultation',
   contact: {
-    email: import.meta.env.VITE_CONTACT_EMAIL || 'contact@meerdigital.com',
+    email: import.meta.env.VITE_CONTACT_EMAIL || 'contact@meerdigital1.com',
     phone: import.meta.env.VITE_CONTACT_PHONE || '+91 9065605144',
     whatsapp: import.meta.env.VITE_WHATSAPP_NUMBER || '+91 9065605144',
     address:
